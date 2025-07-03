@@ -3,10 +3,6 @@ How to Use the IL2CPP Protection Tool
 
 # Prepare the IL2CPP Protection Directory
 - Place the "il2cpp protect" directory inside your project's Assets folder.
-  Example:
-  YourProject/
-    Assets/
-      il2cpp protect/
 
 # Configure the IL2CPP Protection Settings
 . Locate and open the IL2CPP configuration file within the il2cpp protect directory.
